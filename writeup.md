@@ -48,7 +48,7 @@ signs data set:
 
 ####2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization example of a random image picked from the data set. It is an image shown "Ahead only" (ClassID 35):
+Here is an exploratory visualization example of a random image picked from the data set. It is an image shown "Yield" (ClassID 13):
 
 ![alt text][image1]
 
